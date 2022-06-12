@@ -1,2 +1,2 @@
 for i in range(0,25):
- print(i)
+ print("It is ", i)
